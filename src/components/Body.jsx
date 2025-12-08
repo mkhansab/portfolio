@@ -1,6 +1,6 @@
 import Project from "./Project"
-import projectData from './projects'
-import blogData from './BlogList'
+import projectData from "../utils/projects"
+import blogData from "../utils/BlogList"
 import Blog from './Blog'
 import { useEffect, useState } from 'react'
 
