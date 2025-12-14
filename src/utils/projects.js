@@ -14,7 +14,7 @@ export default [
         title: 'Career Cascade',
         description: "An application for job seekers made using Springboot, React, Postgres",
         github: 'https://github.com/mohs-in/career-cascade',
-        demo: 'https://career-cascade.vercel.app/'
+        demo: 'https://mohs-in.github.io/career-cascade/'
     },
     {
         id:6,
