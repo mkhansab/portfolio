@@ -5,8 +5,8 @@ export default [
         date: 'In Progress',
         title: 'My Notes App',
         description: "My technical study archives",
-        github: 'https://github.com/mohs-in/notes-v2',
-        demo: 'https://notes-mohsin.netlify.app/'
+        github: 'https://github.com/mohs-in/notes',
+        demo: 'https://mohs-in.github.io/notes/'
     },
     {
         id:7,
@@ -22,7 +22,7 @@ export default [
         title: 'Van Life',
         description: "App made using React router",
         github: 'https://github.com/mohs-in/van-life',
-        demo: 'https://vanlife-scrimba-ms.netlify.app/'
+        demo: 'https://mohs-in.github.io/van-life/'
     },
     {
         id:5,
@@ -30,7 +30,7 @@ export default [
         title: 'Tenzies Game',
         description: 'A fun game to play built w/ React.js',
         github: 'https://github.com/mohs-in/tenzies-game',
-        demo: 'https://tenzies-game-ms.netlify.app/'
+        demo: 'https://mohs-in.github.io/tenzies-game/'
     },
     {
         id:4,
@@ -38,7 +38,7 @@ export default [
         title: 'Meme Generator',
         description: 'Generate memes with custom text',
         github: 'https://github.com/mohs-in/meme-generator',
-        demo: 'https://meme-scrimba-ms.netlify.app/'
+        demo: 'https://mohs-in.github.io/meme-generator/'
     },
     {
         id:3,
@@ -46,7 +46,7 @@ export default [
         title: 'GPT',
         description: 'Get Passwords in no Time',
         github: 'https://github.com/mohs-in/password-generator',
-        demo: 'https://passwd-gen-scrimba-ms.netlify.app/'
+        demo: 'https://mohs-in.github.io/password-generator/'
     },
     {
         id:2,
@@ -54,7 +54,7 @@ export default [
         title: 'NFT Site',
         description: 'Built with React.js & Sass',
         github: 'https://github.com/mohs-in/nft-site',
-        demo: 'https://nft-scrimba-ms.netlify.app/'
+        demo: 'https://mohs-in.github.io/nft-site/'
     },
     {
         id:1,
@@ -62,6 +62,6 @@ export default [
         title: 'WeBarelyWork',
         description: 'Explore workspaces for lazy devs',
         github: 'https://github.com/mohs-in/cowork-space',
-        demo: 'https://cowork-scrimba-ms.netlify.app/'
+        demo: 'https://mohs-in.github.io/cowork-space/'
     }
 ]
